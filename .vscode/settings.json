@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "venv/bin/python3",
+    "python.pythonPath": "venv\\Scripts\\python.exe",
     "python.formatting.provider": "yapf",
     "editor.fontFamily": "Cascadia Code",
     "editor.formatOnSave": true,
