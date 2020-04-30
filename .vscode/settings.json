@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "venv\\Scripts\\python.exe",
+    "python.pythonPath": "c:\\Users\\Rizwan\\PycharmProjects\\MyFreeWebApp\\venv\\Scripts\\python.exe",
     "python.formatting.provider": "yapf",
     "editor.fontFamily": "Cascadia Code",
     "editor.formatOnSave": true,
