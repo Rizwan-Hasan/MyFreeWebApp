@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "venv/bin/python3",
+    "python.formatting.provider": "yapf",
+    "editor.fontFamily": "Cascadia Code",
+    "editor.formatOnSave": true,
+    "editor.fontLigatures": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "One Dark Pro"
+}
